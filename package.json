@@ -1,0 +1,33 @@
+{
+  "name": "marketing-sheets-sync",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Syncs Google Sheets data to MongoDB marketing database every 10-15 minutes",
+  "main": "cron.js",
+  "scripts": {
+    "start": "node cron.js",
+    "sync-once": "node sync.js",
+    "dev": "vite --port 4000",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "googleapis": "^144.0.0",
+    "mongoose": "^8.3.4",
+    "node-cron": "^3.0.3",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "recharts": "^2.12.7",
+    "lucide-react": "^0.378.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "@vitejs/plugin-react": "^4.3.1",
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^3.4.3",
+    "vite": "^5.2.11"
+  }
+}
