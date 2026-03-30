@@ -2,7 +2,7 @@ require('dotenv').config();
 const express = require('express');
 const cors = require('cors');
 const morgan = require('morgan');
-const { getDb } = require('./db');
+const { getDb, getCrmDb } = require('./db');
 
 const app = express();
 const PORT = process.env.PORT || 4001;
@@ -10,6 +10,10 @@ const PORT = process.env.PORT || 4001;
 app.use(cors());
 app.use(morgan('dev'));
 app.use(express.json());
+
+// Serve static files from the Vite build in 'dist' (so you only need one server for production)
+const path = require('path');
+app.use(express.static(path.join(__dirname, 'dist')));
 
 /**
  * Dynamically discover the mapping from header labels in the "2026 Cost Plan Budget " sheet

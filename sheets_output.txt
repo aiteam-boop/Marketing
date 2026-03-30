@@ -1,0 +1,217 @@
+﻿SHEET_NAMES:["Sheet38","Final KRA 2025","WA Campaigns & Plan","Cold Emailing Data","AUTO EMAIL CAMPAIGN","Warehouse Details","Brand Visibility/Stakeholder's POV","SM Tracker","Content Calendar (Sanj)","New Product Update","Strategy 2025","Linkedin Connection Data(sanj)","Sanjana - Daily To Do Checklist","Bunty - Daily Checklist","Sahil - Daily Checklist","2026 Cost Plan Budget ","Organic Tracker","Copy of Organic Tracker","Marketing KRA","Workflow - Plan ","for lookastudio","Sir's Video plans","New Visitig Card - Update","WA Marketing"]
+
+===SHEET_START:Sheet38===
+ROW_COUNT:102
+ROW_0:["Employee Name","Headings / Platform / KRA","Activity / Task","Monthly Target","Current Month Count","Status","KPI / Engagement Goal","Actual Engagement / Result","Notes","Frequency"]
+ROW_1:["Sanjana","LinkedIn ΓÇô Company","Posts (Educational Content)",4,4,"In Progress","500+ impressions","-","Industry insights, cold chain tips","Monthly"]
+ROW_2:["Sanjana","LinkedIn ΓÇô Company","Posts (Case Studies)",2,0,"In Progress","300+ impressions","-","Client success stories","Monthly"]
+ROW_3:["Sanjana","LinkedIn ΓÇô Company","Posts (Company Updates)",2,2,4,"400+ impressions","-","BTS facilities, milestones","Monthly"]
+ROW_4:["Sanjana","LinkedIn ΓÇô Company","Video Posts",3,32,"In Progress","1000+ views","-","Facility tours, process videos","Monthly"]
+===SHEET_END===
+
+===SHEET_START:Final KRA 2025===
+ROW_COUNT:152
+ROW_0:["Sahil Kotmire"]
+ROW_1:["KRA","Task Category","KPI / Measurement","Detailed Activity","Frequency","Objective "]
+ROW_2:["Google Business Profile (40%)","Profile Setup & Optimization","GBP completeness score 90%+, Local Pack ranking for 5 keywords by Month 6","Create & get verified new GBP pages, categories, NAP consistency, schema","One-time + Quarterly Review, create 4 new account","Brand creation / Leads"]
+ROW_3:["","Posts & Media","Engagement rate +10% quarterly","Create & publish posts (offers, updates), upload geotagged images","8 posts/month, 10 images/month"]
+ROW_4:["","Reviews","Avg. rating 4.2+, Review response <24 hrs","Request & respond to customer reviews","Ongoing (15ΓÇô20/month)"]
+===SHEET_END===
+
+===SHEET_START:WA Campaigns & Plan===
+ROW_COUNT:52
+ROW_0:["Sr. no","Month"," Date","Type (Promo/Utility)","Broadcast Name","Status","Data Source","Product","Industry","Remarks","Template","Creative","Total Count","Delivered Count","Read Count","CTR %","Campaign\nSpent"]
+ROW_1:[1,"Dec","13/12/2025","PROMOTIONAL (Push)","Google ads data","","Google Ads","Reefer","Mix","","Hello {{1}}, ≡ƒ½╡ Your competitors are upgrading to Plug & Play Cold Storage ΓÇö because quality issues canΓÇÖt wait. Why businesses choose Reefer containers: * Zero temperature fluctuation * Move anywhere, anytime * Available for Rent/Buy Specs: * +25┬░C to ΓÇô25┬░C | ΓÇô40┬░C | ΓÇô70┬░C * Size: 10ft | 20ft | 40ft * Start your operations immediately T&c apply*","https://drive.google.com/file/d/1M4htG8LvMR6aS3rl9L5Xy3qNJ8rugGsp/view?usp=drive_link",734,568,416,0.1585,"Γé╣ 508.53","",508]
+ROW_2:[2,"Dec","20/12/2025","PROMOTIONAL (Push)","Lusha & Saleshandy data","","Lusha, Saleshandy","Reefer","Mix","","Hello {{1}}, ≡ƒÅ¡ When cold storage needs civil work, flexibility is lost. We know permanent construction doesnΓÇÖt make sense when storage is needed only for a few months. Businesses avoid: ΓÇó ≡ƒÅù∩╕Å Heavy civil investment ΓÇó Γ¥ä∩╕Å Temperature instability ΓÇó ≡ƒôë Operational downtime Temperature Ranges: +25┬░C to ΓÇô25┬░C | ΓÇô40┬░C | ΓÇô70┬░C Sizes: 10ft | 20ft | 40ft ≡ƒöî Instant Plug & Play Cold Storage ≡ƒôª Rent or Buy for short-term or seasonal needs","https://drive.google.com/file/d/1CRVxaAAkphbcQQWTS6fs5YGntbGGVM_z/view?usp=drive_link",996,383,275,0.0521,"Γé╣ 333.92","",333]
+ROW_3:[3,"Dec","23/12/2025","PROMOTIONAL (Push)","Aunga_Pharma_Rohit's data","","Aunuga Pharma","Reefer","Mix","","Hello {{1}}, ≡ƒ½╡ Your competitors are upgrading to Plug & Play Cold Storage ΓÇö because quality issues canΓÇÖt wait. Why businesses choose Reefer containers: * Zero temperature fluctuation * Move anywhere, anytime * Available for Rent/Buy Specs: * +25┬░C to ΓÇô25┬░C | ΓÇô40┬░C | ΓÇô70┬░C * Size: 10ft | 20ft | 40ft * Start your operations immediately T&c apply*","https://drive.google.com/file/d/1gOPoxxGW1YN8Yb2N6Dl2axPnpQ2zXGVc/view?usp=drive_link",323,98,84,0.0612,"Γé╣ 79.21","",79]
+ROW_4:[4,"Dec","29/12/2025","PROMOTIONAL (Push)","Undelivered Number_ Lusha_and_Google Ads_Data","","Undelivered No's","Reefer","Mix","","Hello {{1}}, ≡ƒ½╡ Your competitors are upgrading to Plug & Play Cold Storage ΓÇö because quality issues canΓÇÖt wait. Why businesses choose Reefer containers: * Zero temperature fluctuation * Move anywhere, anytime * Available for Rent/Buy Specs: * +25┬░C to ΓÇô25┬░C | ΓÇô40┬░C | ΓÇô70┬░C * Size: 10ft | 20ft | 40ft * Start your operations immediately T&c apply*","https://drive.google.com/file/d/1gOPoxxGW1YN8Yb2N6Dl2axPnpQ2zXGVc/view?usp=drive_link",371,24,20,0.1667,"Γé╣ 9","",9]
+===SHEET_END===
+
+===SHEET_START:Cold Emailing Data===
+ROW_COUNT:704
+ROW_0:[1,"25/02/2026 Campaign"]
+ROW_1:["Sr. no ","Email Id's","Name","Co name","Industry","Status","Source"]
+ROW_2:[1,"Kenankumar.Patel@abbott.com","Kenankumar Patel","Abbott Healthcare","Pharma","Sent","Active Contacts"]
+ROW_3:[2,"Anjali.Patki@abbott.com","Anjali Patki","Abbott Healthcare","Pharma","Sent"]
+ROW_4:[3,"Dinesh.Arora@abbott.com","Dinesh Arora","Abbott Healthcare","Pharma","Invaild"]
+===SHEET_END===
+
+===SHEET_START:AUTO EMAIL CAMPAIGN===
+ROW_COUNT:122
+ROW_0:[]
+ROW_1:["Sr. no ","Email Id's","Name","Co name","Industry","Status","Date"]
+ROW_2:[1,"Kenankumar.Patel@abbott.com","Kenankumar Patel","","Pharma","Sent","25-Mar-2026"]
+ROW_3:[2,"Anjali.Patki@abbott.com","Anjali Patki","","Pharma","Sent","25-Mar-2026"]
+ROW_4:[3,"Dinesh.Arora@abbott.com","Dinesh Arora","","Pharma","Sent","25-Mar-2026"]
+===SHEET_END===
+
+===SHEET_START:Warehouse Details===
+ROW_COUNT:6
+ROW_0:["Warehouse","Pallet ","Dock Area ","Chambers ","Temperature Zone ","Products "]
+ROW_1:["Kolkata ",12000,"",6,"-18c TO +25c","FMCG, MARINE,FROZEN,READY TO EAT,DAIRY"]
+ROW_2:["Bhubaneswar",6359,"",2,"-18c TO +25c","FMCG, MARINE,FROZEN,READY TO EAT,DAIRY"]
+ROW_3:["Pune",1410,"",4," -18c TO +25c","FMCG, MARINE,FROZEN,READY TO EAT,DAIRY"]
+ROW_4:["Delhi",4884,"",8,"-18c TO +25c","FMCG, MARINE,FROZEN,READY TO EAT,DAIRY"]
+===SHEET_END===
+
+===SHEET_START:Brand Visibility/Stakeholder's POV===
+ROW_COUNT:25
+ROW_0:["","Focus Area","Content Type","Activity","Actual Qty","Planned Qty","Owner","Status","Remarks"]
+ROW_1:["Brand Visibility/ Positioning"]
+ROW_2:[1,"Procurement","Video","Container procurement & quality checks",1,10,"Sanjana & Sahil","In process"]
+ROW_3:["","","","Poc Krishna"]
+ROW_4:[]
+===SHEET_END===
+
+===SHEET_START:SM Tracker===
+ROW_COUNT:352
+ROW_0:["Sr. no","Posting Date ","Kind of Post","Post Idea ","Post Type","Status","Image Link","Purpose","SM Caption","WA Channel","GMB Virwani ","GMB Mumbai","LinkedIn","YT Videos","YT shorts","YT community","FB & Insta","Stories","Message for Sharing","","","Month Schedule "]
+ROW_1:[1,"27/6/2024","Video","Reefer Container Delivery","In house","","https://drive.google.com/file/d/1tQblatl7Orsb1QXe9LnClZMujOzy7hz/view?usp=drive_link","","","","","Done","","","Done","Done"]
+ROW_2:[2,"27/6/2024","Video","Reefer Manual installation ","In house","","https://drive.google.com/file/d/17728jkSPf4I4Vhe5e6CqQwQ2gloVn5r/view?usp=drive_link","","","","","Done"]
+ROW_3:[3,"27/6/2024","Image","Dry Creative (Info)","In house","","","","","","","Done"]
+ROW_4:[4,"29/6/2024","Video","Dry Office Container 1","In house","","https://drive.google.com/file/d/1jwG9NEgECxn76YKD3mESHRRlJRvBr_/view?usp=drive_link","","","","","Done","","","Done"]
+===SHEET_END===
+
+===SHEET_START:Content Calendar (Sanj)===
+ROW_COUNT:45
+ROW_0:["K","Type","Platform","Details","Notes","Revised URL","Image Link","Blog/ Case Link","Status","SM Post Caption"]
+ROW_1:["26/05/2025","Case Study","website","Transforming PCM Pad Storage for a Major E-commerce Logistics Player","New","","","https://docs.google.com/document/d/1xFdrTPvgKG09oMkuOc5AgCptkdh-Pcm8/edit?usp=drive_link&ouid=108959287584418717187&rtpof=true&sd=true","Published","Revolutionizing Cold Chain Logistics: Faster, Cleaner, and More Reliable PCM Pad Conditioning with Crystal Group! Γ¥ä∩╕Å≡ƒÜÜ\nRead more in the comments below!\n\n"]
+ROW_2:["07/06/2025","Blog post","website","India's Dairy Export Gap: How Crystal Group Empowers IndiaΓÇÖs Dairy Industry to Seize Global Opportunities","New","","https://drive.google.com/drive/folders/1Zwjf-Lx9r2b0HvIGnu8F8ZjeNGUEBD6U?usp=sharing","https://docs.google.com/document/d/13osELkdoKNGBoHweY6RYWqwKBrDDpqSg/edit?usp=drive_link&ouid=108959287584418717187&rtpof=true&sd=true","Published","Powering IndiaΓÇÖs Dairy Exports with Crystal Group ≡ƒÜÜΓ¥ä∩╕Å≡ƒÑ¢\r\nIndia leads in milk production, but exporting fresh dairy is a challenge. Crystal GroupΓÇÖs cold storage and portable refrigeration solutions keep dairy products fresh and export-readyΓÇöfrom farm to world. ≡ƒîì≡ƒôª\r\nWant to know more?\r\n≡ƒæç Check the link in the comments! ≡ƒæç\r"]
+ROW_3:["12/06/2025","Case Study","website","ISO Tanks Empower Geothermal Energy for a Leading Energy Innovator in Barmer, Rajasthan\r\n","New","","https://drive.google.com/drive/folders/159eFf_p8GpyJ9RgPa4MTMhU-k0KyXzrT?usp=drive_link","https://docs.google.com/document/d/1qZU-NPkoVyObeAXVO3rS7dH_w68gFB4I/edit?usp=drive_link&ouid=108959287584418717187&rtpof=true&sd=true","Published","From oilfields to clean energy! Crystal GroupΓÇÖs ISO tanks are helping IndiaΓÇÖs industry turn old wells into geothermal power, cutting 17,000 tons of emissions each year. ≡ƒî▒ΓÜí\nWant to know how? Click the link in the comments to read more! ≡ƒæç\n\n"]
+ROW_4:["12/06/2025","Blog post","website","Blast Freezer Containers: The Smart Choice for Food Businesses\n","Revised","https://crystalgroup.in/freezing-made-simple-find-the-best-blast-freezer-container-for-your-needs/","https://drive.google.com/drive/folders/1Dx9aHQJlpi3hCTycFzQCvP2FZO0jQIWo?usp=sharing","https://docs.google.com/document/d/1MbZ5JRRmJ_sthinbgNSDQINjtrNMMsMt/edit?usp=drive_link&ouid=108959287584418717187&rtpof=true&sd=true","Published","Keep your food business one step ahead! Γ¥ä∩╕Å≡ƒôª Crystal GroupΓÇÖs blast freezer containers mean fresher products, less waste, and smoother operations. Want to know how? ≡ƒæë Check the comment below for the full story! "]
+===SHEET_END===
+
+===SHEET_START:New Product Update===
+ROW_COUNT:5
+ROW_0:["Products","Website","Indiamart","Trade India","GMB","Social Media","Flyer (Marketing kit)"]
+ROW_1:["Cold Soak Room"]
+ROW_2:["Dark Store"]
+ROW_3:["Customised Cold Conatiners"]
+ROW_4:["Bult To Suit","Done","","","Done","Done","Done"]
+===SHEET_END===
+
+===SHEET_START:Strategy 2025===
+ROW_COUNT:50
+ROW_0:["≡ƒöÑ STEP 1: DEFINE THE GAME YOUΓÇÖRE PLAYING","YouΓÇÖre not just a seller of cold storage boxes. You're solving real operational nightmares for time-sensitive industries."]
+ROW_1:[]
+ROW_2:[]
+ROW_3:["≡ƒÄ» What Are You Selling?","Γ£à Plug-and-play cold storage solutions"]
+ROW_4:["","Reefer containers, blast freezers, cold rooms ΓÇö lease or sale ΓÇö with superfast deployment, zero infra headache."]
+===SHEET_END===
+
+===SHEET_START:Linkedin Connection Data(sanj)===
+ROW_COUNT:228
+ROW_0:["Pharma Connect 2026","","","","","Remark"]
+ROW_1:["Name","","Designation","Company Name"]
+ROW_2:["Mehul Gandhi","Done","Manager - SCM & O2C┬á","Bayer Zydus Pharma","Hi Akash,\r\nThanks.\r\nWhile we are consolidating our service providers, you may still get in touch with my Logistic colleague Dilip Sonar - +91 99309 70215\r\nRegards,\r\nMehul Gandhi ","Call Back on 11 feb"]
+ROW_3:["Ugrasen Singh","Done","Associate Director-Lead Import & Export and Logistics Procurement","Cipla"]
+ROW_4:["Gaurav Bhatia","Done","Head-Planning, GM- Supply Chain","Reliance Retail Pharma"]
+===SHEET_END===
+
+===SHEET_START:Sanjana - Daily To Do Checklist===
+ROW_COUNT:24
+ROW_0:["Sr. no","Platform","Task Category","Task Description","Target / Notes","Frequency","Done (Γ£ö)"]
+ROW_1:[1,"LinkedIn","Profile Hygiene","Check profile photo & headline","Clear value proposition","Daily"]
+ROW_2:[2,"","","Update Featured section","Website / Brochure / Case study","Daily"]
+ROW_3:[3,"","Messages","Reply to LinkedIn messages","Same-day response","Daily"]
+ROW_4:[4,"","","Thank new connections","Short, polite note","Daily"]
+===SHEET_END===
+
+===SHEET_START:Bunty - Daily Checklist===
+ROW_COUNT:23
+ROW_0:["Sr. no","Platform / Area","Task","Metrics to Check","Frquency","Notes / Action"]
+ROW_1:[1,"Google Ads","Check CTR, Spend & CPL","CTR %, CPL, Spend","Daily"]
+ROW_2:[2,"","Pause low-performing ads","CTR below benchmark","Daily"]
+ROW_3:[3,"","Check approvals & disapprovals","Policy status","Daily"]
+ROW_4:[4,"","Search terms & negative reviews","Irrelevant queries","Daily"]
+===SHEET_END===
+
+===SHEET_START:Sahil - Daily Checklist===
+ROW_COUNT:23
+ROW_0:["Sr. no","Task ","Description","Frequency","Time Frame"]
+ROW_1:[1,"Whats API","Create WA broadcast ","Once in 3 days","20- 30 mins"]
+ROW_2:[2,"","Quick Responses on messages received post broadcast done","Daily","10 - 15 mins"]
+ROW_3:[3,"","Filter data and make the campaign ready","Once in 3 days","30-45 mins"]
+ROW_4:[4,"","Create messae template according to data & campaign","Once in 3 days","60 mins"]
+===SHEET_END===
+
+===SHEET_START:2026 Cost Plan Budget ===
+ROW_COUNT:27
+ROW_0:["","","","","","","","","","Actual Acheived January 2026","","","","","Actual Acheived Feburay  2026","","","","","","","Actual Acheived March 2026","","","","","","","Actual Acheived April 2026","","","","","","","Actual Acheived May 2026","","","","","","","Actual Acheived June 2026"]
+ROW_1:["Marketing Channel","Accoutable","Monthly Budget (Γé╣)","Annual Budget (Γé╣)","Expected MQL / Month","PO's 1 / Month","PO 1 Stretch","TOTAL PO","Cost/PO","Spent Planned ","Spent Actual ","PO Planned ","PO Actual ","PO Value ","Spent Planned ","Spent Actual ","PO Planned ","Leads","SQL","PO Actual ","PO Value ","Spent Planned ","Spent Actual ","PO Planned ","Leads","SQL","PO Actual ","PO Value ","Spent Planned ","Spent Actual ","PO Planned ","Leads","SQL","PO Actual ","PO Value ","Spent Planned ","Spent Actual ","PO Planned ","Leads","SQL","PO Actual ","PO Value ","Spent Planned ","Spent Actual ","PO Planned ","Leads","SQL","PO Actual ","PO Value "]
+ROW_2:["Google Ads/Overall Marketing","Bunty",75000,600000,150,10,5,15,7500,75000,23000,"",1,450000,75000,54871.52,15,64,4,0,0,75000,0,15,0,0,0,0,75000,0,15,0,0,0,0,75000,0,15,0,0,0,0,75000,0,15,0,0,0,0]
+ROW_3:["Meta Ads","Bunty",20000,240000,"50+",2,0,2,10000,20000,0,"","","",20000,0,2,0,0,0,0,20000,0,2,0,0,0,0,20000,0,2,0,0,0,0,20000,0,2,0,0,0,0,20000,0,2,0,0,0,0]
+ROW_4:["Linkedin Reach","Sanjana","","","","","","","","","","","","",0,0,2,0,1,0,0,0,0,2,0,0,0,0,0,0,2,0,0,0,0,0,0,2,0,0,0,0,0,0,2,0,0,0,0]
+===SHEET_END===
+
+===SHEET_START:Organic Tracker===
+ROW_COUNT:66
+ROW_0:["","Website Clicks","","Website Form Inquiry","","Email Marketing Sent","","Case Study","","Blogs","","Client Testimonials","","Email Response","","Linkedin Posts","","Linkedin Followers","","GMB calls ","","GMB Review","","Leads Captured","","Closed Leads"]
+ROW_1:["","Ache","Target","Ache","Target","Ache","Target","Ache","Target","Ache","Target","Ache","Target","Ache","Target","Ache","Target","Ache","Target","Ache","Target","Ache","Target","Ache","Target","Ache","Target"]
+ROW_2:["01/08/2025",0,16,"",0,"",350,"","",1,1,"","","",0,"",0,33,48,3,2,0,2,"",3]
+ROW_3:["02/08/2025",0,16,"",1,"",350,1,1,"",0,"","","",1,1,1,71,48,4,2,0,2,"",3]
+ROW_4:["03/08/2025",2,16,"",0,"",350,"","",1,1,"","","",0,1,1,33,48,0,2,0,2,"",3]
+===SHEET_END===
+
+===SHEET_START:Copy of Organic Tracker===
+ROW_COUNT:11
+ROW_0:["","Email Marketing Sent","","Case Study","","Blogs","","Client Testimonials","","Linkedin Posts","","GMB calls ","","GMB Review","","Google Ads Lead","","WhatsApp Camp","","CEO Video scripts","","Salesable","","Lusha"]
+ROW_1:["","Ache","Target","Ache","Target","Ache","Target","Ache","Target","Ache","Target","Ache","Target","Ache","Target","Ache","Target","Ache","Target","Ache","Target","Ache","Target","Ache","Target"]
+ROW_2:["01/11/2025","",8400,"",2,"",2,"",2,"",15,"",100,"",30,"",80,"",2,"",2,"",1000,"",125]
+ROW_3:["01/12/2025","",8400,"",2,"",2,"",2,"",15,"",100,"",30,"",80,"",2,"",2,"",1000,"",125]
+ROW_4:["01/01/2026","",8400,"",2,"",2,"",2,"",15,"",100,"",30,"",80,"",2,"",2,"",1000,"",125]
+===SHEET_END===
+
+===SHEET_START:Marketing KRA===
+ROW_COUNT:90
+ROW_0:["We will be reaching the topline of 72 crore","","","","","","","","","","","","","","","","","","12/08/2025"]
+ROW_1:["Sr. No","Activities","Platforms","What has to be done","Week","Month","July Month","Year","","","","Start Date","End Date","Outcome","Third Party ","Budgeted Expenses","","","12/08/2025","Platform","Work","Status","Remarks","July Month Report","Platform","Work","Status","Remarks","August Month Report","Platform","Work","Status","Remarks","","Platform","Work","Status","Remarks","October Month Report","Platform","Work","Status","Remarks","November Month Report","Platform","Work","Status","Remarks","December Month Report","Platform","Work","Status","Remarks","January 2025 Month Report","Platform","Work","Status","Remarks","Feburary 2025 Month Report","Platform","Work","Status","Remarks"]
+ROW_2:["Total","","","",9.5,46,12,595,"Planned","Achieved","","","","","","Month","Year","","","","","","","","","","","","","","","","","September Month Report"]
+ROW_3:["","","","","","","","","","","","","","","","","","","","","","","","","SM (FB & Insta)","6 Post created","Done","","","Marketing","Design Certificate\nCreated 4 Images, 2 Videos on Canva\nCreated a flyer 2 for Naresh sir, & 2 for Mr. Manish\nCreated the Link tree with our all digital links\nNew feedback form integrated with Link tree and shared on email\nCrystal Training video","Done","","","Growth Marketing (ADs)","- Created a LinkedIn ad for hiring new candidates.\n- Conducted research on keywords for a Google campaign; a keyword sheet has been created.\n- Prepared a Google ad campaign with 1 campaign, 4 ad groups, and 4 ads.\n- Searched for relevant tools for data purchasing.\n- Practiced fetching pharma data from Google My Business (GMB) (note: no emails retrieved).","Done","","","Growth Marketing (ADs)","Google ad have been prepared 1 campign, 3 ad groups, 3 ads once the ad started then multiple ad groups and Call ads will be added with new keywords\n Reasearch done keywords, headlines, and descriptions making sure to maintain the relevency of ad\n Call extentions, sitelinks extention has been added in easch ad groups\n Meeting scheduled with lead generating company (on hold decision pendng from mansi)","Pending card details","","","Growth Marketing (ADs)","- Optimized campaigns in collaboration with a Google expert.\n- Set up conversion goals for tracking and implemented Google Tags.\n- Conducted keyword research and updated ad groups with new keywords.\n- Began daily reporting on clicks, form fills, and calls in a shared group.\n- Initiated weekly sales team meetings (every Saturday) to track lead status.","","","","Growth Marketing (ADs)","- Created a new Google Ads campaign targeting the Mumbai location.  \r\n- Optimized the existing campaign by narrowing the target from state to city.  \r\n- Currently refining campaign elements, including keywords, headlines, descriptions, and assets.  \n- Initiated weekly sales team meetings (every Saturday) to track lead status.","","","","Growth Marketing (ADs)","- Shifting done from Individual account to company googls ads account\n- Busines verification done \n- Optimized the existing campaign by narrowing the target from state to city.\n- Currently refining campaign elements, including keywords, headlines, descriptions, and assets.  \n- Initiated weekly sales team meetings (every Saturday) to track lead status.\n- Created a new Google Ads campaign targeting the Mumbai location.","","","","Growth Marketing (ADs) Lead Generation & Advertising","- Currently refining campaign elements, including keywords, headlines, descriptions, and assets. (In progress) \n - Initiated weekly sales team meetings (every Saturday) to track lead status.\n - Created a new Google Ads campaign targeting the telangana location.\n - Added more negative keywords in the cmapaign\n - Continued Google Ads campaigns targeting reefer containers with optimized keywords.\n Focused ads in Maharashtra and telangana to improve conversions.\n Google Ads lead - 32\n Cold follow up - 7\n Warm follow up - 9","https://ads.google.com/aw/campaigns?campaignId=22064722244&ocid=1575497001&workspaceId=0&euid=1066938619&__u=5987682531&uscid=1575497001&__c=1744258849&authuser=0","This month lead flow has increased and there is increas in followup cold and warm leads"]
+ROW_4:[1,"Social Media Marketing","Link, FB, Insta, YT","Posting of Creatives ",2,8,8,104,64,83,"","6/6/2024","Ongoing","Reach, Awarness","SM Exec 1  to be hired ",25000,300000,"","","LinkedIn","1 Post created","Created","","","LinkedIn","6 Post created","Done","","","SM","Start and Update the YouTube channel\nPosting on LinkedIn, YT, FB, Insta, GMB pages (8 Videos, 6 Images)\nUpdated the Insta bio (link tree link)\nCreated 1 new banner for YT, FB, LinkedIn page and updated","Done","","","Marketing","- Created 7 images and 4 videos using Canva and InVideo.  \n- Collected information from the client and converted it into a transcript.  \n- Prepared a case study based on the collected information (client's consent is pending).","Done","","","Marketing","- Created 3 images and 5 videos using Canva and InVideo. \n - Reframe the case study based on the collected information.\n - Created post diwali celebration video and posted","Done","","","Marketing","- Designed JNPT signboard for enhanced visibility.\n- Created 7 images and 3 videos for promotions.\n- Launched a testimonial/review initiative for social media.\n- Designed a digital business card for Naresh Sir.\n- Prepared and delivered Porta Cabin promotional materials (video & images) for Pushpa (Sales).","","","","Marketing","- Created 7 images, 1 GIF and 3 videos for promotions.\n- Launched a testimonial/review initiative for social media.","","","","Marketing","- Created 5 images, 1 GIF and 5 videos for promotions.\n- Research done on fetching real time Phone numbers from google for cold calling and susseccfuly generated 100 numbers","","","","Social Media & Content Marketing","Engaging FB, Instagram, YT & LinkedIn posts focusing on container modifications, reefer solutions.\n  Managed postings across all platforms (5 images, 1 gif and 5 videos ) and optimized hashtags weekly.\n  Reposted content in Facebook groups to boost reach and awareness.\n  Actively posted stories on Facebook, Instagram, and WhatsApp channels.\n  LinkedIn Followers increased by 1,438 in feb month","https://www.linkedin.com/company/3191451/admin/analytics/followers/","This month we were aiming 1500 followers so far we have achieved 1438."]
+===SHEET_END===
+
+===SHEET_START:Workflow - Plan ===
+ROW_COUNT:133
+ROW_0:["Platform"]
+ROW_1:[]
+ROW_2:["Whatsapp Marketing","WA Broadcasting, API "]
+ROW_3:["Linkedin Marketing ","Group posting, Client Connects, LinkedIn Advertising,LinkedIn Sales Navigator"]
+ROW_4:["GMB"]
+===SHEET_END===
+
+===SHEET_START:for lookastudio===
+ROW_COUNT:113
+ROW_0:["","Category","Product","Year","Month","Date","Type of Post","Link"]
+ROW_1:[1,"Case study","Case study Pharma hetero",2025,"April","17/04/2025","Case study Image","https://drive.google.com/file/d/1BDgDKvJ1NNxJRxeNIErW7LYy4exE8DCH/view?usp=drive_link"]
+ROW_2:[2,"Case study","Cold Storage Deployment at Hyderabad Airport",2025,"May","15/05/2025","Case study Image","https://drive.google.com/file/d/1wfJTYCp-0lehFNM08RsgT0CSWs_KfLUC/view?usp=drive_link"]
+ROW_3:[3,"Cold Room","Built Cold room in 7days",2024,"August","20/08/2024","Image","https://drive.google.com/file/d/1sdz8A8sa983uCQoBNxydidktEh58WjkU/view?usp=drive_link"]
+ROW_4:[4,"Cold Warehouse","Top 5 advantages of cold warehouse",2024,"september","02/09/2024","Image","https://drive.google.com/file/d/1jPKM0PiuJKP6GEmRHyCjs0mlz6SBhDzh/view?usp=drive_link"]
+===SHEET_END===
+
+===SHEET_START:Sir's Video plans===
+ROW_COUNT:32
+ROW_0:["         ","Topic","Product","Script Link","Script Status","Video Status","Publish Status","remarks"]
+ROW_1:[1,"Cold Storage Near me  R u Looking for Cold storage","Reefer ","https://docs.google.com/document/d/1VXm6ArhhaT0XkT1lQxFEqJy7vlfpywde/edit?usp=drive_link&ouid=108959287584418717187&rtpof=true&sd=true","Ready","Ready","Published"]
+ROW_2:["","CEO VIDEO SCRIPT ΓÇö Crystal Cold Chain Achievement (100 Containers in 60 Days)","Reefer ","https://1drv.ms/w/c/16200bad5c25198d/EeEYkJAnWNZNpi9edHwgybEBPfxgmRUYgn9Rn9VXg4LuLw?e=a2th0f","Ready"]
+ROW_3:["","90 Days. 3 Cities. One Extraordinary Milestone ","BTS","https://1drv.ms/w/c/16200bad5c25198d/ETls8yVL7W9ErwW6chBgHdsBvkdTxrAE8eY1ADHs6KSqUA?e=XfHgQ1","Ready"]
+ROW_4:["","Ensuring Food Safety with TemperatureControlled Storage Solutions","Reefer ","https://docs.google.com/document/d/1WBtGoBbPGGUVtB5rZdGZd7m-QS4avHz8rW_1HtO3Dno/edit?usp=sharing","Ready","Pending"]
+===SHEET_END===
+
+===SHEET_START:New Visitig Card - Update===
+ROW_COUNT:10
+ROW_0:["NAME","VC PDF","Print Copies","Delivered ","Price "]
+ROW_1:["AKASH AGARWAL","Aakash Agarwal VC.pdf",400,"9/9/2025"]
+ROW_2:["KRISHANG AGARWAL","KRISHANG AGARWAL VC.pdf",200,"9/9/2025"]
+ROW_3:["MANSI AGARWAL","Mansi Agarwal VC.pdf",200,"9/9/2025"]
+ROW_4:["ROHIT SINGH","Rohit Singh VC.pdf",200,"9/9/2025"]
+===SHEET_END===
+
+===SHEET_START:WA Marketing===
+ROW_COUNT:5
+ROW_0:["Platform","Task","Quantifiable measure (KPI's)","Team Member Responsible"]
+ROW_1:["WhatsApp Marketing","Weekly Broadcast Camp","4 broadcast/week"]
+ROW_2:["","Monthly WA Catalog Updates","20%+ message Open Rate"]
+ROW_3:["","Automated Replies Via WA API","50-100 replies per month"]
+ROW_4:["","Send Brouchers, Case Studies, Videos"]
+===SHEET_END===

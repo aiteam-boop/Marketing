@@ -1,0 +1,89 @@
+﻿{
+  "69c3c8b4f92601f0441aa11a": [
+    "_id"
+  ],
+  "104465d0e779d0e90b284d6fda9667fefb673a9f970b030637a90ceb57e4f66c": [
+    "_rowHash"
+  ],
+  "Spent Planned ": [
+    "Actual_Acheived_April_2026",
+    "Actual_Acheived_Feburay_2026",
+    "Actual_Acheived_January_2026",
+    "Actual_Acheived_June_2026",
+    "Actual_Acheived_March_2026",
+    "Actual_Acheived_May_2026"
+  ],
+  "PO 1 Stretch": [
+    "col_13p9a"
+  ],
+  "Spent Actual ": [
+    "col_1ah5n",
+    "col_f6ggz",
+    "col_m4zob",
+    "col_p5ro4",
+    "col_ta0sg"
+  ],
+  "PO Planned ": [
+    "col_3adfl",
+    "col_5e7w0",
+    "col_nm1sa",
+    "col_p1973",
+    "col_wvjxl"
+  ],
+  "PO Value ": [
+    "col_3zudx",
+    "col_bsar5",
+    "col_d7xuj",
+    "col_jcg32",
+    "col_nj2du"
+  ],
+  "PO Actual ": [
+    "col_6sr46",
+    "col_f12qo",
+    "col_f94dp",
+    "col_jdi7k",
+    "col_qxm41"
+  ],
+  "Leads": [
+    "col_7ppbk",
+    "col_dpw80",
+    "col_hj701",
+    "col_pxrij"
+  ],
+  "SQL": [
+    "col_7pqna",
+    "col_8k4kd",
+    "col_dfb50",
+    "col_jdics"
+  ],
+  "TOTAL PO": [
+    "col_8h5lr"
+  ],
+  "Monthly Budget (Γé╣)": [
+    "col_e7uut"
+  ],
+  "Marketing Channel": [
+    "col_iqmbq"
+  ],
+  "Cost/PO": [
+    "col_mw1w2"
+  ],
+  "PO's 1 / Month": [
+    "col_pqi61"
+  ],
+  "Accoutable": [
+    "col_sny8k"
+  ],
+  "Expected MQL / Month": [
+    "col_vt0ts"
+  ],
+  "Annual Budget (Γé╣)": [
+    "col_w2wr8"
+  ],
+  "Wed Mar 25 2026 17:06:21 GMT+0530 (India Standard Time)": [
+    "lastSyncedAt"
+  ],
+  "2026 Cost Plan Budget ": [
+    "sheetName"
+  ]
+}
