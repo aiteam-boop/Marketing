@@ -2,11 +2,12 @@
   "name": "marketing-sheets-sync",
   "version": "1.0.0",
   "description": "Syncs Google Sheets data to MongoDB marketing database every 10-15 minutes",
-  "main": "cron.js",
+  "main": "api_server.js",
   "scripts": {
-    "start": "node cron.js",
+    "start": "node api_server.js",
+    "cron-only": "node -e \"require('./cron.js').startCron()\"",
     "sync-once": "node sync.js",
-    "dev": "vite --port 4000",
+    "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
   },

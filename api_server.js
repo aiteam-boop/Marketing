@@ -3,6 +3,7 @@ const express = require('express');
 const cors = require('cors');
 const morgan = require('morgan');
 const { getDb, getCrmDb } = require('./db');
+const { startCron } = require('./cron');
 
 const app = express();
 const PORT = process.env.PORT || 4001;
@@ -314,6 +315,12 @@ app.get('/api/marketing/lead-details', async (req, res) => {
     }
 });
 
-app.listen(PORT, () => {
-  console.log(`🚀 API Server running on http://localhost:${PORT}`);
+app.get('*', (req, res) => {
+  res.sendFile(path.join(__dirname, 'dist', 'index.html'));
+});
+
+app.listen(PORT, '0.0.0.0', () => {
+  console.log(`🚀 API Server running on port ${PORT}`);
+  console.log(`📡 Background Sync initialized`);
+  startCron();
 });
