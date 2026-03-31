@@ -6,7 +6,8 @@ export default defineConfig({
   plugins: [react()],
   server: {
     port: 4000,
-    host: '0.0.0.0', // Allow external connections (crucial for some cloud setups)
+    host: '0.0.0.0',
+    allowedHosts: 'all', // Fixes "Blocked request" error on Render/Cloud
     proxy: {
       '/api': {
         target: 'http://localhost:4001',
