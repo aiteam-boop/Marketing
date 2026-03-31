@@ -143,13 +143,13 @@ export default function MarketingDashboard() {
     const fetchData = async () => {
       try {
         setLoading(true);
-        const response = await fetch(`http://localhost:4001/api/marketing/cost-plan`);
+        const response = await fetch(`/api/marketing/cost-plan`);
         if (!response.ok) throw new Error('API server unreachable');
         const result = await response.json();
         setData(result);
       } catch (err) {
         console.error(err);
-        setError('Connection failed. Start the API server on port 4001.');
+        setError('Data Engine Unreachable. Ensure API server is active.');
       } finally {
         setLoading(false);
       }
@@ -161,11 +161,11 @@ export default function MarketingDashboard() {
   useEffect(() => {
     const fetchIM = async () => {
         try {
-            const sumRes = await fetch(`http://localhost:4001/api/marketing/indiamart-summary?month=${selectedMonth}`);
+            const sumRes = await fetch(`/api/marketing/indiamart-summary?month=${selectedMonth}`);
             const sumData = await sumRes.json();
             setImSummary(sumData);
 
-            const leadsRes = await fetch(`http://localhost:4001/api/marketing/indiamart-leads?month=${selectedMonth}`);
+            const leadsRes = await fetch(`/api/marketing/indiamart-leads?month=${selectedMonth}`);
             const leadsData = await leadsRes.json();
             setImLeads(leadsData);
         } catch (e) {
@@ -224,7 +224,7 @@ export default function MarketingDashboard() {
 
   const fetchLeadDetails = async (phone) => {
       try {
-          const res = await fetch(`http://localhost:4001/api/marketing/lead-details?phone=${phone}`);
+          const res = await fetch(`/api/marketing/lead-details?phone=${phone}`);
           if (res.ok) {
               const d = await res.json();
               setLeadDetails(d);
