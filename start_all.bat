@@ -1,0 +1,6 @@
+@echo off
+echo Starting API Server...
+start "API Server" cmd /k "node api_server.js"
+echo Starting Vite Dev Server...
+start "Vite Dev Server" cmd /k "npm run dev"
+echo Both servers have been started in new windows.

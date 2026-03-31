@@ -11,21 +11,21 @@ let isConnected = false;
 async function connectDB() {
   if (isConnected) return;
 
-  const uri = process.env.MONGODB_URI
+  const mUri = process.env.MONGODB_URI
     ? process.env.MONGODB_URI.replace(/\/[^/?]+(\?|$)/, '/marketing$1')
     : null;
 
-  if (!uri) {
+  if (!mUri) {
     throw new Error('MONGODB_URI is not defined in environment variables.');
   }
 
   try {
-    await mongoose.connect(uri, {
+    await mongoose.connect(mUri, {
       serverSelectionTimeoutMS: 15000,
       socketTimeoutMS: 45000,
     });
     isConnected = true;
-    console.log('✅ Connected to MongoDB → marketing database');
+    console.log('✅ Connected to MongoDB → Atlas Cluster');
   } catch (err) {
     console.error('❌ MongoDB connection failed:', err.message);
     throw err;
@@ -34,7 +34,12 @@ async function connectDB() {
 
 async function getDb() {
   if (!isConnected) await connectDB();
-  return mongoose.connection.db;
+  return mongoose.connection.useDb('marketing');
 }
 
-module.exports = { connectDB, getDb };
+async function getCrmDb() {
+  if (!isConnected) await connectDB();
+  return mongoose.connection.useDb('sales_crm');
+}
+
+module.exports = { connectDB, getDb, getCrmDb };
