@@ -6,8 +6,10 @@
   "scripts": {
     "start": "node api_server.js",
     "cron-only": "node -e \"require('./cron.js').startCron()\"",
+    "api": "node api_server.js",
     "sync-once": "node sync.js",
-    "dev": "vite",
+    "dev": "concurrently \"npm run api\" \"npm run dev:web\"",
+    "dev:web": "vite --port 4000",
     "build": "vite build",
     "preview": "vite preview"
   },
@@ -29,6 +31,7 @@
     "@types/react-dom": "^18.3.0",
     "@vitejs/plugin-react": "^4.3.1",
     "autoprefixer": "^10.4.19",
+    "concurrently": "^9.2.1",
     "postcss": "^8.4.38",
     "tailwindcss": "^3.4.3",
     "vite": "^5.2.11"
