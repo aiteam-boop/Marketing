@@ -19,28 +19,31 @@ function getAuthClient() {
 /**
  * Returns the list of all sheet names in the spreadsheet.
  */
-async function getSheetNames() {
+async function getSheetNames(spreadsheetId = SPREADSHEET_ID) {
   const auth = getAuthClient();
   const sheets = google.sheets({ version: 'v4', auth });
 
   const response = await sheets.spreadsheets.get({
-    spreadsheetId: SPREADSHEET_ID,
-    fields: 'sheets.properties.title',
+    spreadsheetId: spreadsheetId,
+    fields: 'sheets.properties.title,sheets.properties.sheetId',
   });
 
-  return response.data.sheets.map((s) => s.properties.title);
+  return response.data.sheets.map((s) => ({
+    title: s.properties.title,
+    sheetId: s.properties.sheetId
+  }));
 }
 
 /**
  * Fetches all rows from a single sheet.
  * Returns an array of plain JS objects (header row = keys).
  */
-async function getSheetData(sheetName) {
+async function getSheetData(sheetName, spreadsheetId = SPREADSHEET_ID) {
   const auth = getAuthClient();
   const sheets = google.sheets({ version: 'v4', auth });
 
   const response = await sheets.spreadsheets.values.get({
-    spreadsheetId: SPREADSHEET_ID,
+    spreadsheetId: spreadsheetId,
     range: sheetName,
     valueRenderOption: 'UNFORMATTED_VALUE',
     dateTimeRenderOption: 'FORMATTED_STRING',

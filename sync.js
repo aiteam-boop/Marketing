@@ -123,7 +123,8 @@ async function runSync() {
 
   // ── Fetch sheet list ─────────────────────────────────────────────
   try {
-    sheetNames = await getSheetNames();
+    const rawSheets = await getSheetNames();
+    sheetNames = rawSheets.map(s => s.title);
     console.log(`📋 Found ${sheetNames.length} sheet(s): ${sheetNames.join(', ')}`);
   } catch (err) {
     console.error('❌ Failed to fetch sheet list:', err.message);
@@ -136,6 +137,9 @@ async function runSync() {
 
   // ── Sync each sheet ──────────────────────────────────────────────
   for (const sheetName of sheetNames) {
+    // Add 1s delay to avoid Quota Exceeded (Read requests)
+    await new Promise(r => setTimeout(r, 1000));
+    
     console.log(`\n  📄 Syncing "${sheetName}"…`);
     let records = [];
     const MAX_RETRIES = 3;

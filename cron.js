@@ -2,6 +2,7 @@ require('dotenv').config();
 const cron = require('node-cron');
 const { connectDB } = require('./db');
 const { runSync } = require('./sync');
+const { runGoogleAdsSync } = require('./google_ads_sync');
 
 // Run every 12 minutes  (change as needed: "*/10" = every 10 min, "*/15" = every 15 min)
 const CRON_SCHEDULE = '*/12 * * * *';
@@ -20,10 +21,18 @@ const startCron = async () => {
     // Run immediately on startup
     await runSync().catch((err) => console.error('Initial sync error:', err));
 
-    // Then run on schedule
+    // Then run on schedules
     cron.schedule(CRON_SCHEDULE, async () => {
         await runSync().catch((err) => console.error('Scheduled sync error:', err));
     });
+
+    // Google Ads Live Sync (Every 2 minutes)
+    cron.schedule('*/2 * * * *', async () => {
+        await runGoogleAdsSync().catch((err) => console.error('Google Ads sync error:', err));
+    });
+    
+    // Run initial Google Ads sync immediately
+    await runGoogleAdsSync().catch((err) => console.error('Initial Google Ads sync error:', err));
 };
 
 module.exports = { startCron };
