@@ -5,12 +5,13 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
   server: {
-    port: 4000,
+    port: 5050,
+    strictPort: true, // Prevents jumping to another port and breaking the proxy
     host: '0.0.0.0',
     allowedHosts: 'all', // Fixes "Blocked request" error on Render/Cloud
     proxy: {
       '/api': {
-        target: 'http://localhost:4001',
+        target: 'http://localhost:5051',
         changeOrigin: true
       }
     }

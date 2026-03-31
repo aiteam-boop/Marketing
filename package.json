@@ -5,11 +5,12 @@
   "main": "api_server.js",
   "scripts": {
     "start": "node api_server.js",
+    "dev": "concurrently \"npm run dev:server\" \"npm run dev:client\"",
+    "dev:server": "node api_server.js",
+    "dev:client": "vite --port 4000",
     "cron-only": "node -e \"require('./cron.js').startCron()\"",
     "api": "node api_server.js",
     "sync-once": "node sync.js",
-    "dev": "concurrently \"npm run api\" \"npm run dev:web\"",
-    "dev:web": "vite --port 4000",
     "build": "vite build",
     "preview": "vite preview"
   },

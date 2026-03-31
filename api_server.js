@@ -4,9 +4,10 @@ const cors = require('cors');
 const morgan = require('morgan');
 const { getDb, getCrmDb } = require('./db');
 const { startCron } = require('./cron');
+const { runGoogleAdsSync } = require('./google_ads_sync');
 
 const app = express();
-const PORT = process.env.PORT || 4001;
+const PORT = process.env.PORT || 5051;
 
 app.use(cors());
 app.use(morgan('dev'));
@@ -579,10 +580,41 @@ app.get(/^(?!\/api).*/, (req, res) => {
   res.sendFile(path.join(__dirname, 'dist', 'index.html'));
 });
 
-// Catch-all route to serve the frontend (index.html) for any unhandled routes
-app.use((req, res) => {
-  res.sendFile(path.join(__dirname, 'dist', 'index.html'));
+/**
+ * Live Google Ads Leads APIs
+ */
+app.get('/api/google-ads-leads', async (req, res) => {
+    try {
+        const db = await getDb();
+        const leads = await db.collection('google_ads_live').find({}).sort({ Timestamp: -1 }).toArray();
+        res.json(leads);
+    } catch (err) {
+        res.status(500).json({ error: err.message });
+    }
 });
+
+app.get('/api/google-ads-leads/latest', async (req, res) => {
+    try {
+        const db = await getDb();
+        const leads = await db.collection('google_ads_live').find({}).sort({ _id: -1 }).limit(10).toArray();
+        res.json(leads);
+    } catch (err) {
+        res.status(500).json({ error: err.message });
+    }
+});
+
+/**
+ * Manual Sync Trigger
+ */
+app.post('/api/google-ads-leads/sync', async (req, res) => {
+    try {
+        const count = await runGoogleAdsSync();
+        res.json({ success: true, synced: count });
+    } catch (err) {
+        res.status(500).json({ status: 'error', message: err.message });
+    }
+});
+
 
 app.listen(PORT, '0.0.0.0', () => {
   console.log(`🚀 API Server running on port ${PORT}`);
