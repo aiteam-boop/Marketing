@@ -315,7 +315,8 @@ app.get('/api/marketing/lead-details', async (req, res) => {
     }
 });
 
-app.get('*', (req, res) => {
+// Catch-all route to serve the frontend (index.html) for any unhandled routes
+app.use((req, res) => {
   res.sendFile(path.join(__dirname, 'dist', 'index.html'));
 });
 
